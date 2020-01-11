@@ -67,7 +67,7 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
-#忽略包裝
-package-lock.json
-.
 
+# 忽略pl
+
+package-lock.json
