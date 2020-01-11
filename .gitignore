@@ -69,3 +69,5 @@ yarn-error.log
 .yarn-integrity
 #忽略包裝
 package-lock.json
+.
+
